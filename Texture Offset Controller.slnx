@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="SpalatoBros.TextureOffsetScroller.Runtime.csproj" />
+  <Project Path="SpalatoBros.TextureOffsetScroller.Editor.csproj" />
+</Solution>

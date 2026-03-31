@@ -1071,7 +1071,7 @@ MonoBehaviour:
     propertyId: 126
     updateMode: 0
     unscaledTime: 0
-    currentOffset: {x: 823.1753, y: 911.5901}
+    currentOffset: {x: 186.13683, y: 93.07125}
     resetOffsetOnEnable: 0
     multiplySpeedByTiling: 1
     allowRunInEditMode: 1
@@ -1101,7 +1101,7 @@ MonoBehaviour:
     propertyId: 126
     updateMode: 0
     unscaledTime: 1
-    currentOffset: {x: 1.2048082, y: 6.3769946}
+    currentOffset: {x: 7.6273913, y: 2.799572}
     resetOffsetOnEnable: 0
     multiplySpeedByTiling: 0
     allowRunInEditMode: 1
@@ -1131,7 +1131,7 @@ MonoBehaviour:
     propertyId: 126
     updateMode: 0
     unscaledTime: 0
-    currentOffset: {x: -0.9040079, y: -0.8218502}
+    currentOffset: {x: -0.9070869, y: -0.8178319}
     resetOffsetOnEnable: 0
     multiplySpeedByTiling: 1
     allowRunInEditMode: 1
@@ -1251,7 +1251,7 @@ MonoBehaviour:
     propertyId: 126
     updateMode: 0
     unscaledTime: 0
-    currentOffset: {x: 0.786042, y: 0.04234633}
+    currentOffset: {x: 0.39336216, y: 0.83142805}
     resetOffsetOnEnable: 0
     multiplySpeedByTiling: 0
     allowRunInEditMode: 1
@@ -1281,7 +1281,7 @@ MonoBehaviour:
     propertyId: 126
     updateMode: 0
     unscaledTime: 0
-    currentOffset: {x: 0.090599604, y: 0.13610977}
+    currentOffset: {x: 0.26215336, y: 0.31509736}
     resetOffsetOnEnable: 0
     multiplySpeedByTiling: 0
     allowRunInEditMode: 1
@@ -1311,7 +1311,7 @@ MonoBehaviour:
     propertyId: 126
     updateMode: 0
     unscaledTime: 1
-    currentOffset: {x: 0.35938406, y: 0.5259291}
+    currentOffset: {x: 0.21662112, y: 0.17879964}
     resetOffsetOnEnable: 0
     multiplySpeedByTiling: 1
     allowRunInEditMode: 1
